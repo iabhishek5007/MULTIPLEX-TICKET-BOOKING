@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "my project", ".", "{D5D07FDC-CB60-48BD-AF46-8565CB472187}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/my project"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Google\my project\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\my project\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/my project"
+		Release.AspNetCompiler.PhysicalPath = "D:\Google\my project\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\my project\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56094"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Release|.NET = Release|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5D07FDC-CB60-48BD-AF46-8565CB472187}.Debug|.NET.ActiveCfg = Debug|.NET
+		{D5D07FDC-CB60-48BD-AF46-8565CB472187}.Debug|.NET.Build.0 = Debug|.NET
+		{D5D07FDC-CB60-48BD-AF46-8565CB472187}.Release|.NET.ActiveCfg = Debug|.NET
+		{D5D07FDC-CB60-48BD-AF46-8565CB472187}.Release|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

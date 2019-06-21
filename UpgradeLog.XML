@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="my project">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\dev\Desktop\E-Ticket Booking (Multiplex)\Project Source Code\my project\my project.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\dev\Desktop\E-Ticket Booking (Multiplex)\Project Source Code\my project\my project.suo">
+</Property><Property Name="Date" Value="Thursday, August 30, 2012">
+</Property><Property Name="Time" Value="14:28 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="my project.sln" Description="File successfully backed up as C:\Documents and Settings\dev\Desktop\E-Ticket Booking (Multiplex)\Project Source Code\my project\Backup\my project.sln">
+</Event><Event ErrorLevel="0" Project="" Source="my project.suo" Description="File successfully backed up as C:\Documents and Settings\dev\Desktop\E-Ticket Booking (Multiplex)\Project Source Code\my project\Backup\my project.suo">
+</Event><Event ErrorLevel="1" Project="my project" Source="..\my project" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="" Source="my project.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="my project.sln" Description="Converted">
+</Event></UpgradeLog>
